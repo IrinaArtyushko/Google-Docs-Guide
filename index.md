@@ -17,6 +17,7 @@ Google Docs has many options for working with a document. Several basic function
   <a href="./create_documents.md">Create documents</a>
 <html>
 
+
 <html>
   <a href="./insert_different_types_of_content.md">Insert different types of content</a>  
 <html>  
