@@ -1,5 +1,7 @@
 # **Insert different types of content**
 
+You can insert images, tables, and charts into your document.
+
 ## *Add images*
 
 To add a new image:
