@@ -10,5 +10,5 @@ Google Docs is an online word processor that lets you create and format document
     ![Google Docs image](/assets/google_docs.png)
 
 <html>
-  <a href="./create_documents">Read the about page</a>
+  <a href="./create_documents.md">Read the about page</a>
 <html>  
