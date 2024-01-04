@@ -15,17 +15,15 @@ Google Docs has many options for working with a document. Several basic function
 
 <html>
 <ul>
-  <li> <a href="./create_documents.md">create documents.</a> </li>
-  <li><a href="./insert_different_types_of_content.md">Insert different types of content.</a> </li>
-  <li>Milk</li>
+  <li> <a href="./create_documents.md">Create documents.</a> </li>
+  <li> <a href="./insert_different_types_of_content.md">Insert different types of content.</a> </li>
+  <li> <a href="./manage_the_page_settings.md">Manage the page settings.</a></li>
+  <li> <a href="./managing_access.md">Manage access.</a></li>
+  <li> <a href="./manage_add-ons.md">Manage add-ons.</a></li>
     
-1. <a href="./insert_different_types_of_content.md">Insert different types of content.</a>  
 <html>
 
 
-<html>
-  <a href="./insert_different_types_of_content.md">Insert different types of content</a>  
-<html>  
 
 
 
