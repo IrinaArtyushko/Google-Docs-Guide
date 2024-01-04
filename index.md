@@ -8,3 +8,7 @@ Google Docs is an online word processor that lets you create and format document
 - Ease of use.
 
     ![Google Docs image](/assets/google_docs.png)
+
+<html>
+  <a href="./create_documents">Read the about page</a>
+<html>  
